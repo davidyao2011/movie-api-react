@@ -1,0 +1,51 @@
+{
+  "name": "movie_react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/free-regular-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
+    "add": "^2.0.6",
+    "axios": "^0.18.1",
+    "dotenv": "^8.2.0",
+    "node-sass": "^4.14.1",
+    "query-string": "^6.9.0",
+    "react": "^16.12.0",
+    "react-burger-menu": "^2.6.12",
+    "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
+    "react-helmet": "^6.0.0-beta",
+    "react-lazyload": "^2.6.5",
+    "react-modal-video": "^1.2.3",
+    "react-rating": "^1.7.2",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "react-scroll": "^1.7.14",
+    "react-select": "^2.4.4",
+    "react-slick": "^0.23.2",
+    "react-sticky-box": "^0.8.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^4.4.1"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
