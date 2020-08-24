@@ -1,6 +1,6 @@
 # Movie Library w/ ReactJS
 
-## [Check it live here](https://movies.fidalgo.dev/)
+## [Check it live here](https://david-movie-api.netlify.app)
 
 ![Thumbnail](thumbnail.png)
 
