@@ -2,7 +2,7 @@
 
 ## [Check it live here](https://david-movie-api.netlify.app)
 
-![Thumbnail](thumbnail.png)
+![Thumbnail](Movies-Data.png)
 
 A Movie Library made with ReactJS using The Movie Database API
 
