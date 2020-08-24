@@ -48,6 +48,3 @@ npm run build
 
 Please feel free to send pull request if you want to contribute!
 
-## Authors
-
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
