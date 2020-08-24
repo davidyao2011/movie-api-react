@@ -1,4 +1,4 @@
-# Movie Library w/ ReactJS
+# Movie Library  ReactJS/Redux
 
 ## [Check it live here](https://david-movie-api.netlify.app)
 
